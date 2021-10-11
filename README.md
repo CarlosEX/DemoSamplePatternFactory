@@ -91,6 +91,13 @@ Ficou mais simples certo? Sim, porém o problema com essa abordagem, está nos q
 
 Nesse artigo, você aprendeu como criar um projeto de console pela linha de comando, organizando o código em pastas, depois criando interfaces e implementando-as em uma classe, e por último, aplicando o pattern Factory para abstrair a criação de uma classe.
 
+## Tecnologias
+
+- Linux (Fedora)
+- .NET 5 (C#)
+- Visual Studio Code
+- CLI .NET
+
 Com isso vou ficando por aqui,
 
 Pegue o projeto no GitHub: [Reporitório GitHub](https://github.com/CarlosEX/DemoSamplePatternFactory)
