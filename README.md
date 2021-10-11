@@ -6,9 +6,9 @@ Nesse projeto, vamos aprende a como implementar de forma simples e fácil, o pat
 
 Para poder acompanhar os exemplos desse artigo, os pré-requisitos são:
 
-. SDK .NET
-. Qualquer sistema operacional (Linux, Windows ou Mac)
-. Qualquer IDE que dê suporte ao .NET (C#)
+- SDK .NET
+- Qualquer sistema operacional (Linux, Windows ou Mac)
+- Qualquer IDE que dê suporte ao .NET (C#)
 
 
 ## O que é o Factory ?
