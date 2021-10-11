@@ -87,16 +87,18 @@ Sem aplicar o padrão, a criação da nossa classe ficaria assim:
 
 Ficou mais simples certo? Sim, porém o problema com essa abordagem, está nos quesitos "abstração e acoplamento" com o uso da palavra new.
 
-## Conclusão
-
-Nesse artigo, você aprendeu como criar um projeto de console pela linha de comando, organizando o código em pastas, depois criando interfaces e implementando-as em uma classe, e por último, aplicando o pattern Factory para abstrair a criação de uma classe.
-
 ## Tecnologias
 
 - Linux (Fedora)
 - .NET 5 (C#)
 - Visual Studio Code
 - CLI .NET
+
+
+## Conclusão
+
+Nesse artigo, você aprendeu como criar um projeto de console pela linha de comando, organizando o código em pastas, depois criando interfaces e implementando-as em uma classe, e por último, aplicando o pattern Factory para abstrair a criação de uma classe.
+
 
 Com isso vou ficando por aqui,
 
