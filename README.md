@@ -127,5 +127,6 @@ Carlos Antonio
 
 
 
->> "No dia da prosperidade, goza do bem, mas, no dia da adversidade, considera; porque também Deus fez este em oposição àquele, para que o homem nada ache que tenha de vir depois dele."
-Eclesiastes 7:14
+> "No dia da prosperidade, goza do bem, mas, no dia da adversidade, considera; porque também Deus fez este em oposição àquele, para que o homem nada ache que tenha de vir depois dele."
+>
+> Eclesiastes 7:14
